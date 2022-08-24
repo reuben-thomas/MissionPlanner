@@ -1,0 +1,29 @@
+.nav-item {
+    font-size:0.7rem;
+}
+
+.table {
+  width: 30%;
+  max-width: 30%;
+  margin-bottom: 1rem;
+  font-size:0.6rem;
+}
+
+.table th,
+.table td {
+  padding: 0.75rem;
+  vertical-align: top;
+  border-top: 1px solid #eceeef;
+  font-size:0.6rem;
+}
+
+.table thead th {
+  vertical-align: bottom;
+  border-bottom: 2px solid #eceeef;
+  font: size 0.6rem;
+}
+
+p {
+  font-size:0.6rem;  
+  margin-bottom:0.5rem
+}
